@@ -1,0 +1,31 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "kodilla ",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
+  "scripts": {
+    "test": "grunt-test2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hebraone/test_repo.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Piotr Hebrowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hebraone/test_repo/issues"
+  },
+  "homepage": "https://github.com/hebraone/test_repo#readme"
+}
